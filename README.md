@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I am Namrata Balwani👋
 
-<!--
-**namratabalwani/namratabalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-time graduate student pursuing an MS in CE at Stony Brook University and have 3+ years of experience as an SDE.
 
-Here are some ideas to get you started:
+<!--**namratabalwani/namratabalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+Skills:
+• Programming Languages: C, C++, C#, JAVA, VB.NET, Python, JavaScript, and PHP
+• Web Technology: JavaScript, JQuery, HTML, CSS, Bootstrap, J2EE, Angular, React
+• Database: MySQL, Oracle, MS SQL, SQLite, MongoDB
+• Frameworks: ASP.net, Entity Framework, MVC, Restful API (XML, JSON), JDK, Spring Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫Reach me at : 
+LinkedIn: https://www.linkedin.com/in/namratabalwani/
+Mail : namratabalwani1@gmail.com
+
