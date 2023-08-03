@@ -11,6 +11,6 @@ Skills:
 
 
 <br/>📫Reach me at : 
-<br/>LinkedIn: https://www.linkedin.com/in/namratabalwani/
+<br/>LinkedIn: https://www.linkedin.com/in/namrata-balwani/
 <br/>Mail : namratabalwani1@gmail.com
 
